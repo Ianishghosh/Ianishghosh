@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Anish%20Ghosh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff&height=250&section=header&text=Anish%20Ghosh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20Student%20%7C%20AI%20Researcher&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
 </div>
 
 ### 👨‍💻 Professional Summary

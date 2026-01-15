@@ -9,7 +9,7 @@
  
  🔭 **Current Focus:** Fine-tuning Large Language Models (LLMs) & Audio Transformers for production environments.  
  🚀 **Goal:** Building high-efficiency ML pipelines that solve complex, real-world data problems.  
- 🧠 **Problem Solving:** Active LeetCode Solver (Max Rating: 1600+).  
+ 🧠 **Problem Solving:** Active LeetCode Solver   
  📫 **Contact:** ghoshanish.848@gmail.com
 </p>
 

@@ -1,16 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff&height=250&section=header&text=Anish%20Ghosh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff&height=250&section=header&text=Anish%20Ghosh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20Student%20%7C%20AI%20Researcher&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
 </div>
 
 ### 👨‍💻 Professional Summary
 
 <p align="left">
- <img align="right" src="https://media.giphy.com/media/dummy/giphy.gif" width="0" /> I am a **Machine Learning Engineer & Researcher** specializing in Deep Learning, Audio Forensics, and Generative AI. My core expertise lies in developing highly optimized, production-ready AI pipelines and deploying machine learning models on resource-constrained edge devices. 
+ <img align="right" src="https://media.giphy.com/media/dummy/giphy.gif" width="0" /> I am a 3rd-year <strong>Electrical Engineering</strong> student and <strong>AI Research Intern</strong> specializing in Deep Learning, Audio Forensics, and Generative AI. My core expertise lies in developing highly optimized, production-ready AI pipelines and deploying machine learning models on resource-constrained edge devices. 
  
- 🔭 **Current Focus:** Large Language Models (LLMs), Audio Transformers, and mastering Data Structures & Algorithms (DSA) for scalable system design.  
+ 🔭 **Current Focus:** Data Structures & Algorithms (DSA), Large Language Models (LLMs), and Audio Transformers.  
  🚀 **Goal:** Bridging the gap between complex AI research and high-efficiency, real-world software applications.  
  📫 **Contact:** ghoshanish.848@gmail.com | [LinkedIn](https://www.linkedin.com/in/anish-ghosh-284892282/)
 </p>
+
+---
+
+### 🎓 Education
+
+- **Bachelor of Technology — Electrical Engineering** | *Institute of Engineering and Management, Kolkata* (GPA: 8.51)
+- **Higher Secondary (Class XII), CBSE** | *National High School, Kolkata* (80%)
 
 ---
 
@@ -44,6 +51,13 @@
 **🔬 AI Research Intern @ IIEST Shibpur** *(May 2025 - July 2025)*
 - Researched and developed AI models for audio forensic analysis.
 - Built and optimized edge deployment models, achieving 95% accuracy on 500+ samples and improving overall system processing speed by 60%.
+
+---
+
+### 📜 Certifications
+
+- **Generative AI with Large Language Models** — *DeepLearning.AI & AWS (Coursera)*
+- **Introduction to Embedded Systems Software and Development Environments** — *(Coursera)*
 
 ---
 
